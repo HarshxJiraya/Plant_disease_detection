@@ -33,10 +33,9 @@ A deep learning-based image classification project that identifies healthy and d
 ```text
 PlantDiseaseDetectionModel/
 │
-├── dataset/
 ├── notebooks/
-├── saved_models/
-├── app/
+├── model/
+├── Final Report/
 ├── requirements.txt
 └── README.md
 ```
